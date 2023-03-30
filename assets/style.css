@@ -35,18 +35,18 @@ body {
 
 .paddle {
     position: absolute;
-    height: 100px;
+    height: 132px;
     width: 16px;
     background-color: white;
 }
 
-.a {
-    top: 200px;
+#paddle1 {
+    top: 184px;
     left: 100px;
 }
 
-.b {
-    top: 200px;
+#paddle2 {
+    top: 184px;
     right: 100px;
 }
 
