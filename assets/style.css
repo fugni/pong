@@ -6,6 +6,7 @@
 body {
     background-color: black;
     margin: 0;
+    overflow: hidden;
 }
 
 #pongle {
@@ -55,6 +56,4 @@ body {
     width: 16px;
     background-color: white;
     position: absolute;
-    left: 392px;
-    top: 242px;
 }
